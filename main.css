@@ -26,3 +26,7 @@ label {
 .text-report dt:after {
   content: ": ";
 }
+
+.test-class {
+	color: blue;
+}
